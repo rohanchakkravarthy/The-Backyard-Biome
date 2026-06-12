@@ -1,0 +1,253 @@
+{
+  "Alabama": {
+    "feeders": ["Tube feeder", "Suet cage", "Platform feeder"],
+    "foods": ["Black oil sunflower seeds", "Suet blocks", "White proso millet"],
+    "birds": ["Northern Cardinal", "Carolina Chickadee", "Tufted Titmouse"]
+  },
+  "Alaska": {
+    "feeders": ["Large hopper feeder", "Suet cage", "Tube feeder"],
+    "foods": ["Black oil sunflower seeds", "Beef suet", "Nyjer (thistle)"],
+    "birds": ["Black-capped Chickadee", "Common Redpoll", "Pine Siskin"]
+  },
+  "Arizona": {
+    "feeders": ["Nectar feeder", "Tube feeder", "Platform feeder"],
+    "foods": ["Sugar water (nectar)", "Nyjer seed", "Safflower seeds"],
+    "birds": ["Anna's Hummingbird", "Lesser Goldfinch", "Curve-billed Thrasher"]
+  },
+  "Arkansas": {
+    "feeders": ["Hopper feeder", "Suet cage", "Tube feeder"],
+    "foods": ["Sunflower chips", "Suet", "White proso millet"],
+    "birds": ["Northern Cardinal", "Tufted Titmouse", "Dark-eyed Junco"]
+  },
+  "California": {
+    "feeders": ["Tube feeder", "Nectar feeder", "Tray/Platform feeder"],
+    "foods": ["Nyjer seed", "Sugar water", "Black oil sunflower seeds"],
+    "birds": ["Lesser Goldfinch", "Anna's Hummingbird", "California Towhee"]
+  },
+  "Colorado": {
+    "feeders": ["Tube feeder", "Hopper feeder", "Suet basket"],
+    "foods": ["Black oil sunflower seeds", "Peanuts", "Suet cakes"],
+    "birds": ["House Finch", "Black-capped Chickadee", "Downy Woodpecker"]
+  },
+  "Connecticut": {
+    "feeders": ["Tube feeder", "Suet cage", "Hopper feeder"],
+    "foods": ["Black oil sunflower seeds", "Suet", "Safflower seeds"],
+    "birds": ["Black-capped Chickadee", "Tufted Titmouse", "White-breasted Nuthatch"]
+  },
+  "Delaware": {
+    "feeders": ["Tube feeder", "Platform feeder", "Suet cage"],
+    "foods": ["Sunflower hearts", "White proso millet", "Suet blocks"],
+    "birds": ["Northern Cardinal", "Carolina Chickadee", "Dark-eyed Junco"]
+  },
+  "Florida": {
+    "feeders": ["Hopper feeder", "Nectar feeder", "Tube feeder"],
+    "foods": ["Black oil sunflower seeds", "Sugar water", "Safflower seeds"],
+    "birds": ["Northern Cardinal", "Mourning Dove", "Ruby-throated Hummingbird"]
+  },
+  "Georgia": {
+    "feeders": ["Tube feeder", "Suet basket", "Hopper feeder"],
+    "foods": ["Sunflower seeds", "Suet", "Cracked corn"],
+    "birds": ["Northern Cardinal", "Carolina Chickadee", "Tufted Titmouse"]
+  },
+  "Hawaii": {
+    "feeders": ["Platform feeder", "Nectar feeder", "Fruit tray"],
+    "foods": ["White millet", "Sugar water", "Fresh papaya/oranges"],
+    "birds": ["House Finch", "Java Sparrow", "Saffron Finch"]
+  },
+  "Idaho": {
+    "feeders": ["Tube feeder", "Hopper feeder", "Suet cage"],
+    "foods": ["Black oil sunflower seeds", "Peanuts", "Suet blocks"],
+    "birds": ["House Finch", "Black-capped Chickadee", "Pine Siskin"]
+  },
+  "Illinois": {
+    "feeders": ["Tube feeder", "Hopper feeder", "Suet cage"],
+    "foods": ["Black oil sunflower seeds", "Safflower seeds", "Suet blocks"],
+    "birds": ["Northern Cardinal", "Black-capped Chickadee", "Downy Woodpecker"]
+  },
+  "Indiana": {
+    "feeders": ["Hopper feeder", "Tube feeder", "Suet basket"],
+    "foods": ["Sunflower chips", "Safflower seeds", "Suet"],
+    "birds": ["Northern Cardinal", "Tufted Titmouse", "Blue Jay"]
+  },
+  "Iowa": {
+    "feeders": ["Tube feeder", "Hopper feeder", "Suet cage"],
+    "foods": ["Black oil sunflower seeds", "Safflower", "Suet"],
+    "birds": ["Northern Cardinal", "Black-capped Chickadee", "American Goldfinch"]
+  },
+  "Kansas": {
+    "feeders": ["Hopper feeder", "Tube feeder", "Platform feeder"],
+    "foods": ["Black oil sunflower seeds", "Safflower", "White proso millet"],
+    "birds": ["Northern Cardinal", "House Finch", "Dark-eyed Junco"]
+  },
+  "Kentucky": {
+    "feeders": ["Tube feeder", "Hopper feeder", "Suet cage"],
+    "foods": ["Sunflower seeds", "Suet cakes", "White proso millet"],
+    "birds": ["Northern Cardinal", "Carolina Chickadee", "Tufted Titmouse"]
+  },
+  "Louisiana": {
+    "feeders": ["Hopper feeder", "Nectar feeder", "Tube feeder"],
+    "foods": ["Black oil sunflower seeds", "Sugar water", "Safflower"],
+    "birds": ["Northern Cardinal", "Carolina Chickadee", "Ruby-throated Hummingbird"]
+  },
+  "Maine": {
+    "feeders": ["Large tube feeder", "Suet cage", "Hopper feeder"],
+    "foods": ["Black oil sunflower seeds", "Suet blocks", "Nyjer"],
+    "birds": ["Black-capped Chickadee", "American Goldfinch", "White-breasted Nuthatch"]
+  },
+  "Maryland": {
+    "feeders": ["Tube feeder", "Suet cage", "Platform feeder"],
+    "foods": ["Black oil sunflower seeds", "Suet", "White proso millet"],
+    "birds": ["Northern Cardinal", "Carolina Chickadee", "Dark-eyed Junco"]
+  },
+  "Massachusetts": {
+    "feeders": ["Tube feeder", "Hopper feeder", "Suet basket"],
+    "foods": ["Black oil sunflower seeds", "Suet cakes", "Safflower"],
+    "birds": ["Black-capped Chickadee", "Tufted Titmouse", "White-breasted Nuthatch"]
+  },
+  "Michigan": {
+    "feeders": ["Hopper feeder", "Tube feeder", "Suet cage"],
+    "foods": ["Black oil sunflower seeds", "Safflower seeds", "Suet blocks"],
+    "birds": ["Black-capped Chickadee", "Northern Cardinal", "American Goldfinch"]
+  },
+  "Minnesota": {
+    "feeders": ["Hopper feeder", "Large tube feeder", "Suet cage"],
+    "foods": ["Black oil sunflower seeds", "Peanuts in-shell", "Suet blocks"],
+    "birds": ["Black-capped Chickadee", "Blue Jay", "Downy Woodpecker"]
+  },
+  "Mississippi": {
+    "feeders": ["Tube feeder", "Suet basket", "Platform feeder"],
+    "foods": ["Sunflower seeds", "Suet", "White proso millet"],
+    "birds": ["Northern Cardinal", "Carolina Chickadee", "Tufted Titmouse"]
+  },
+  "Missouri": {
+    "feeders": ["Hopper feeder", "Tube feeder", "Suet cage"],
+    "foods": ["Black oil sunflower seeds", "Safflower", "Suet cakes"],
+    "birds": ["Northern Cardinal", "Tufted Titmouse", "Black-capped Chickadee"]
+  },
+  "Montana": {
+    "feeders": ["Large tube feeder", "Hopper feeder", "Suet cage"],
+    "foods": ["Black oil sunflower seeds", "Peanuts", "Suet blocks"],
+    "birds": ["Black-capped Chickadee", "House Finch", "Pine Siskin"]
+  },
+  "Nebraska": {
+    "feeders": ["Hopper feeder", "Tube feeder", "Platform feeder"],
+    "foods": ["Black oil sunflower seeds", "Safflower", "White proso millet"],
+    "birds": ["Northern Cardinal", "House Finch", "Dark-eyed Junco"]
+  },
+  "Nevada": {
+    "feeders": ["Tube feeder", "Nectar feeder", "Platform feeder"],
+    "foods": ["Black oil sunflower seeds", "Sugar water", "Nyjer seed"],
+    "birds": ["House Finch", "Anna's Hummingbird", "Lesser Goldfinch"]
+  },
+  "New Hampshire": {
+    "feeders": ["Tube feeder", "Suet cage", "Hopper feeder"],
+    "foods": ["Sunflower hearts", "Suet blocks", "Safflower"],
+    "birds": ["Black-capped Chickadee", "Tufted Titmouse", "American Goldfinch"]
+  },
+  "New Jersey": {
+    "feeders": ["Tube feeder", "Suet cage", "Platform feeder"],
+    "foods": ["Black oil sunflower seeds", "Suet cakes", "Safflower seeds"],
+    "birds": ["Northern Cardinal", "Tufted Titmouse", "House Finch"]
+  },
+  "New Mexico": {
+    "feeders": ["Tube feeder", "Nectar feeder", "Platform feeder"],
+    "foods": ["Black oil sunflower seeds", "Sugar water", "Nyjer seed"],
+    "birds": ["House Finch", "Black-chinned Hummingbird", "Lesser Goldfinch"]
+  },
+  "New York": {
+    "feeders": ["Tube feeder", "Hopper feeder", "Suet basket"],
+    "foods": ["Black oil sunflower seeds", "Suet blocks", "Safflower"],
+    "birds": ["Black-capped Chickadee", "Northern Cardinal", "Tufted Titmouse"]
+  },
+  "North Carolina": {
+    "feeders": ["Tube feeder", "Suet cage", "Hopper feeder"],
+    "foods": ["Black oil sunflower seeds", "Suet", "Safflower seeds"],
+    "birds": ["Northern Cardinal", "Carolina Chickadee", "Tufted Titmouse"]
+  },
+  "North Dakota": {
+    "feeders": ["Large hopper feeder", "Tube feeder", "Suet cage"],
+    "foods": ["Black oil sunflower seeds", "Peanuts", "Suet cakes"],
+    "birds": ["Black-capped Chickadee", "House Finch", "American Goldfinch"]
+  },
+  "Ohio": {
+    "feeders": ["Tube feeder", "Hopper feeder", "Suet cage"],
+    "foods": ["Black oil sunflower seeds", "Safflower", "Suet blocks"],
+    "birds": ["Northern Cardinal", "Black-capped Chickadee", "Tufted Titmouse"]
+  },
+  "Oklahoma": {
+    "feeders": ["Hopper feeder", "Tube feeder", "Platform feeder"],
+    "foods": ["Black oil sunflower seeds", "Safflower", "White proso millet"],
+    "birds": ["Northern Cardinal", "House Finch", "Dark-eyed Junco"]
+  },
+  "Oregon": {
+    "feeders": ["Tube feeder", "Suet cage", "Nectar feeder"],
+    "foods": ["Black oil sunflower seeds", "Suet blocks", "Sugar water"],
+    "birds": ["House Finch", "Chestnut-backed Chickadee", "Anna's Hummingbird"]
+  },
+  "Pennsylvania": {
+    "feeders": ["Tube feeder", "Hopper feeder", "Suet basket"],
+    "foods": ["Black oil sunflower seeds", "Suet blocks", "Safflower seeds"],
+    "birds": ["Northern Cardinal", "Black-capped Chickadee", "Tufted Titmouse"]
+  },
+  "Rhode Island": {
+    "feeders": ["Tube feeder", "Suet cage", "Hopper feeder"],
+    "foods": ["Sunflower hearts", "Suet cakes", "Safflower"],
+    "birds": ["Black-capped Chickadee", "Tufted Titmouse", "Northern Cardinal"]
+  },
+  "South Carolina": {
+    "feeders": ["Tube feeder", "Suet basket", "Hopper feeder"],
+    "foods": ["Black oil sunflower seeds", "Suet", "Safflower seeds"],
+    "birds": ["Northern Cardinal", "Carolina Chickadee", "Tufted Titmouse"]
+  },
+  "South Dakota": {
+    "feeders": ["Hopper feeder", "Tube feeder", "Suet cage"],
+    "foods": ["Black oil sunflower seeds", "Peanuts", "Suet blocks"],
+    "birds": ["Black-capped Chickadee", "House Finch", "Dark-eyed Junco"]
+  },
+  "Tennessee": {
+    "feeders": ["Tube feeder", "Hopper feeder", "Suet basket"],
+    "foods": ["Black oil sunflower seeds", "Suet", "Safflower"],
+    "birds": ["Northern Cardinal", "Carolina Chickadee", "Tufted Titmouse"]
+  },
+  "Texas": {
+    "feeders": ["Tube feeder", "Platform feeder", "Nectar feeder"],
+    "foods": ["Black oil sunflower seeds", "Safflower", "Sugar water"],
+    "birds": ["Northern Cardinal", "House Finch", "Ruby-throated Hummingbird"]
+  },
+  "Utah": {
+    "feeders": ["Tube feeder", "Hopper feeder", "Nectar feeder"],
+    "foods": ["Black oil sunflower seeds", "Sugar water", "Nyjer seed"],
+    "birds": ["House Finch", "Black-chinned Hummingbird", "Lesser Goldfinch"]
+  },
+  "Vermont": {
+    "feeders": ["Large tube feeder", "Suet cage", "Hopper feeder"],
+    "foods": ["Black oil sunflower seeds", "Suet blocks", "Nyjer"],
+    "birds": ["Black-capped Chickadee", "White-breasted Nuthatch", "American Goldfinch"]
+  },
+  "Virginia": {
+    "feeders": ["Tube feeder", "Hopper feeder", "Suet cage"],
+    "foods": ["Black oil sunflower seeds", "Suet blocks", "Safflower"],
+    "birds": ["Northern Cardinal", "Carolina Chickadee", "Tufted Titmouse"]
+  },
+  "Washington": {
+    "feeders": ["Tube feeder", "Suet basket", "Nectar feeder"],
+    "foods": ["Black oil sunflower seeds", "Suet blocks", "Sugar water"],
+    "birds": ["House Finch", "Dark-eyed Junco", "Anna's Hummingbird"]
+  },
+  "West Virginia": {
+    "feeders": ["Tube feeder", "Hopper feeder", "Suet cage"],
+    "foods": ["Black oil sunflower seeds", "Suet blocks", "Safflower"],
+    "birds": ["Northern Cardinal", "Tufted Titmouse", "Carolina Chickadee"]
+  },
+  "Wisconsin": {
+    "feeders": ["Hopper feeder", "Tube feeder", "Suet cage"],
+    "foods": ["Black oil sunflower seeds", "Safflower", "Suet blocks"],
+    "birds": ["Black-capped Chickadee", "Northern Cardinal", "Downy Woodpecker"]
+  },
+  "Wyoming": {
+    "feeders": ["Hopper feeder", "Tube feeder", "Suet basket"],
+    "foods": ["Black oil sunflower seeds", "Peanuts", "Suet blocks"],
+    "birds": ["House Finch", "Black-capped Chickadee", "Dark-eyed Junco"]
+  }
+}
+
