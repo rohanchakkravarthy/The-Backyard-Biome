@@ -1,6 +1,6 @@
 "use client";
 import { useState } from "react";
-import feederData from "../birdData/birdfeederdata.json";
+import feederData from "./birdData/birdfeederdata.json";
 
 const regions = [
   {
